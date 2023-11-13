@@ -6,3 +6,5 @@ du cours "Concevez un site web avec PHP & MySQL" créé par Mathieu Nebra et enr
 Le projet est contribuable mais sa mise à jour **n'implique pas** de mise à jour du cours en ligne, il faudra vous rapprocher des équipes pédagogiques d'OpenClassrooms pour cela.
 
 Happy learning !
+
+
